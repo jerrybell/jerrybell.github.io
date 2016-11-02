@@ -24,17 +24,15 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif'
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
     line-height: 1.4em;
     color: #333;
     margin: auto;
     margin:40px 0px 0px 40px;
     width:550px;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
 }
 
 ul.posts { 
